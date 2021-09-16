@@ -4,7 +4,12 @@
 
 ####   📝 — Posts from [the DEV profile](https://dev.to/mrrobot)
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [NoCache](https://dev.to/mrrobot/nocache-43ob)
+- [Follow your repository from Discord](https://dev.to/mrrobot/follow-your-repository-from-discord-52ge)
+- [Push all posts of Dev.to into Webhooks](https://dev.to/mrrobot/push-all-posts-of-devto-into-webhooks-3o0h)
+- [Create your own Bot Discord](https://dev.to/mrrobot/create-your-own-bot-discord-2hco)
+<!-- BLOG-POST-LIST:END -->
 
 
 #### 🍃 — Keep up to date on my adventures, follow me everywhere
