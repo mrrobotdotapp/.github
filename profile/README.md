@@ -1,3 +1,12 @@
 # Mr. Robøt
 
-A French Discord bot for stopping harassments. Modding tool and loggin.
+> A French Discord bot for stopping harassments. Modding tool and loggin.
+
+####   📝 — Posts from [the DEV profile](https://dev.to/mrrobot)
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+
+#### 🍃 — Keep up to date on my adventures, follow me everywhere
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mist3r_Robot?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/Mist3r_Robot) [![Follow me on DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white&alt=devto)](https://dev.to/mrrobot) [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23EA54AE.svg?&style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/thomasbnt) [![Support me on Buy Me a Coffee](https://img.shields.io/badge/-Support%20me-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/thomasbn/t?via=thomasbnt)
