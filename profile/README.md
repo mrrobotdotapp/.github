@@ -5,10 +5,10 @@
 ####   📝 — Posts from [the DEV profile](https://dev.to/mrrobot)
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Discord bot with Slash Commands](https://dev.to/mrrobot/creating-a-discord-bot-with-slash-commands-51fa)
 - [NoCache](https://dev.to/mrrobot/nocache-43ob)
 - [Follow your repository from Discord](https://dev.to/mrrobot/follow-your-repository-from-discord-52ge)
 - [Push all posts of dev.to into Webhooks](https://dev.to/mrrobot/push-all-posts-of-devto-into-webhooks-3o0h)
-- [Create your own Bot Discord](https://dev.to/mrrobot/create-your-own-bot-discord-2hco)
 <!-- BLOG-POST-LIST:END -->
 
 
