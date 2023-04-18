@@ -2,6 +2,8 @@
 
 > A French Discord bot for stopping harassments. Modding tool and loggin.
 
+[![Banner Mr. Robot](https://mrrobot.app/img/banner_seo.png)](https://mrrobot.app)
+
 ####   📝 — Posts from [the DEV profile](https://dev.to/mrrobot)
 
 <!-- BLOG-POST-LIST:START -->
